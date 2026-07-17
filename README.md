@@ -13,7 +13,4 @@
 </div>
 
 <div align="center">
-<h3>afterlife.</h3>
 <p><a href="https://afterlife.rest/" target="_blank">afterlife.rest</a></p>
-<p>Chạm cờ trên Discord với Custom RPC, Treo voice, Treo chat, Auto Quest. Và hơn thế nữa.</p>
-</div>
