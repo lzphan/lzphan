@@ -11,3 +11,9 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/1310971730063528047?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
+
+<div align="center">
+<h3>Site Metadata</h3>
+<p><a href="https://afterlife.rest/" target="_blank">afterlife.rest</a></p>
+<p>Chạm cờ trên Discord với Custom RPC, Treo voice, Treo chat, Auto Quest. Và hơn thế nữa.</p>
+</div>
