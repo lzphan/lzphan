@@ -13,4 +13,3 @@
 </div>
 
 <div align="center">
-<p><a href="https://afterlife.rest/" target="_blank">afterlife.rest</a></p>
